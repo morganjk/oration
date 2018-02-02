@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_IMPL_QUERY_ID_FOR_KEY",""],["_IMPL_QUERY_ID_FOR_VALUE",""]],"struct":[["key",""],["star","Represents `table_name.*`, which is sometimes needed for efficient count queries. It cannot be used in place of `all_columns`, and has a `SqlType` of `()` to prevent it being used that way"],["value",""]]});
